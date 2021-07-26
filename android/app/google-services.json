@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884497130057",
+    "project_id": "e-shop-a2150",
+    "storage_bucket": "e-shop-a2150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884497130057:android:cff4ef8db5bc3576f19598",
+        "android_client_info": {
+          "package_name": "com.ufuk.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884497130057-dt0hdrit3b23jng8ah6f855gfh2p8796.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF9Hs2vsSLZ8Ca9LW-RM41B8E0zPGN8N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884497130057-dt0hdrit3b23jng8ah6f855gfh2p8796.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
